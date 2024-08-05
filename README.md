@@ -50,10 +50,10 @@ Welcome to my GitHub profile! I'm Peyman Barakhshan, a Software Engineer special
   - Automated tasks using Python, C++, and Java.
 
 ## 📚 Academic Publications
-- You can view my academic publications on [Google Scholar](https://scholar.google.com/citations?user=ky9vtrgAAAAJ&hl=en).
+- You can view my academic publications on [Google Scholar]().
 
 ## 📫 How to Reach Me
-- For any collaborations or questions, feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/pari-n-a-zb/) profile or drop me an email at [peyman@pblab.org](mailto:peyman@pblab.org).
+- For any collaborations or questions, feel free to reach out through my [LinkedIn](www.linkedin.com/in/dr-peyman-barakhshan-8b18b595/) profile or drop me an email at [peyman@pblab.org](mailto:peyman@pblab.org).
 
 ## ⚡ Fun Fact
 - I love solving complex computational problems and have a passion for learning new technologies in the field of machine learning and artificial intelligence.
