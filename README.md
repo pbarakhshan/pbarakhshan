@@ -82,5 +82,5 @@ Welcome to my GitHub profile! I'm Peyman Barakhshan, a Software Engineer special
 
 ## ⚙️ GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbarakhshan&show_icons=true&theme=dark&card_width=400&count_private=true&include_all_commits=true" alt="GitHub Stats" style="height: 200px; margin-right: 10px;"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pbarakhshan&layout=compact&theme=dark&card_width=400&count_private=true&langs_count=8" alt="Top Languages" style="height: 200px;"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pbarakhshan&show_icons=true&theme=dark&card_width=400&count_private=true&include_all_commits=true" alt="GitHub Stats" style="height: 200px; margin-right: 10px;"/>
 </div>
